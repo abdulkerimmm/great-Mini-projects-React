@@ -1,0 +1,15 @@
+.photo {
+  width: 15%;
+  height: auto;
+  border-radius: 100%;
+}
+
+.jop {
+  font-size: smaller;
+  opacity: initial;
+  color: rgba(159, 134, 93, 0.8);
+}
+
+.text {
+  padding: 50px;
+}

@@ -1,0 +1,21 @@
+.CounterMain {
+  background-color: purple;
+  width: 15%;
+  height: auto;
+  margin: 10px;
+  right: 350px;
+  margin-left: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.CounterMain h3 {
+  color: white;
+  font-weight: bolder;
+}
+
+.CounterMain p {
+  background-color: orange;
+  padding: 5px;
+}

@@ -1,0 +1,21 @@
+.Mainheaders {
+  background-color: yellow;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+}
+
+.hone {
+  left: 350px;
+}
+
+.buton1 {
+  background-color: white;
+  border-radius: 100%;
+  margin: 50px;
+  position: absolute;
+  left: 95%;
+  bottom: 10px;
+  color: red;
+}

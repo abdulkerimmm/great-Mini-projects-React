@@ -1,0 +1,41 @@
+.App {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: darkblue;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(255, 254, 254);
+  width: 25%;
+  height: auto;
+  padding: 10px;
+  padding-bottom: 50px;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+p {
+  font-weight: bold;
+}
+
+.buton {
+  background-color: blue;
+  color: white;
+  height: 2rem;
+}
+
+.buton:hover {
+  background-color: rgb(68, 68, 254);
+}

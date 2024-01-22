@@ -1,0 +1,15 @@
+.box1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-box {
+  width: 25%;
+  border: 1px solid black;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 5px;
+  padding-top: 0px;
+  background-color: goldenrod;
+}

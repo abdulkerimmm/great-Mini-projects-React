@@ -1,0 +1,24 @@
+.circle {
+  border: 1px solid white;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin-left: 40%;
+  margin-bottom: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+.status1 {
+  color: white;
+}
+
+.status2 {
+  color: #00ff00;
+}
+
+.status3 {
+  color: red;
+}

@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  background-color: darkblue;
+}
+
+.bodyheader {
+  color: white;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  transform: translateX(-50%);
+  z-index: 1;
+}

@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  background-color: gray;
+  height: 700vh;
+}
+
+.App2 {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  padding: 2%;
+  flex-direction: row;
+  margin-left: 27%;
+  background-color: blue;
+  color: white;
+}

@@ -1,0 +1,13 @@
+.photo {
+  background: cover;
+}
+
+.animatio {
+  background-color: #cddc39;
+  animation: slide-up 1s ease 0.5;
+  animation-fill-mode: forwards;
+  visibility: "hidden";
+  bottom: 200px;
+  position: relative;
+  left: 100px;
+}

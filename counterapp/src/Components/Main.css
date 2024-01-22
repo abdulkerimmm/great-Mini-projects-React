@@ -1,0 +1,16 @@
+.middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: rgb(5, 5, 121);
+}
+
+.box1 {
+  background-color: rgb(0, 189, 252);
+  padding: 10px;
+}
+
+.box1 h1 {
+  font-size: 30px;
+}

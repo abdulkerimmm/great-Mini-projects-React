@@ -1,0 +1,40 @@
+.mainDiv {
+  width: 50%;
+}
+
+.bigDiv {
+  background-color: rgb(252, 252, 252);
+  display: flex;
+  flex-direction: row;
+}
+
+.tabs {
+  display: flex;
+  flex-direction: column;
+}
+
+.tabs button {
+  background-color: rgb(229, 172, 172);
+  padding: 20px;
+  border-left: 3px solid orange;
+  cursor: pointer;
+}
+
+.text {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.text h4 {
+  margin-top: 0px;
+}
+
+.test1 {
+  background-color: green;
+}
+
+.activetest {
+  color: blue;
+}
